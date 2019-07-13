@@ -1,1 +1,1 @@
-[](https://maksimka6598.github.io/Archi/ "Сайт Arc")
+[Example]: http://example.com/
